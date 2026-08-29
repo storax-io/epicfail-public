@@ -1,0 +1,27 @@
+{
+  "id": 17,
+  "image": "17.jpg",
+  "credit": "by Petri Hiltunen 2026",
+  "transcript": [
+    [
+      "Mr. Warren: Good grief! I'm ruined!",
+      "Maj. Thorne: What's the matter, Mr. Warren?"
+    ],
+    [
+      "Mr. Warren: Some hackers found out the password of my robotic vacuum cleaner!",
+      "Maj. Thorne: Relax, that doesn't sound so bad."
+    ],
+    [
+      "Mr. Warren: But it's the same password I use in all my devices and accounts! Now they own my whole life!"
+    ]
+  ],
+  "fail_fact": {
+    "id": "17",
+    "title": "Your vacuum knows your WiFi password",
+    "text": [
+      "In July 2026, a security researcher demonstrated a serious vulnerability in widely used robot vacuums.",
+      "Depending on the model, an attacker could remotely control the vacuum, access its camera, retrieve maps of the home — and recover the WiFi password stored by the device in plaintext. More than 1.5 million devices were at risk.",
+      "Smart appliances are computers. They need computer-level security."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6,
+  "image": "6.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "Capt. Simon: You are under arrest, creep! For using a loophole in the bank's Internet security to steal millions of euros!",
+      "Hacker: Damn! You got me!"
+    ],
+    [
+      "Hacker: How did you find me?",
+      "Capt. Simon: It was easy to figure out, because it was you who told the bank about the loophole months ago."
+    ],
+    [
+      "Hacker: Who's the other guy?",
+      "Capt. Simon: He's the bank manager who did nothing about the loophole after you told them about it."
+    ]
+  ],
+  "fail_fact": {
+    "id": "6",
+    "title": "Finnish Bank Insecurity — Honesty inherits the land?",
+    "text": [
+      "A 16 year old boy found a vulnerability in bank security. After trying to inform the bank several times to no avail, he uses the loophole himself to steal money from over 200 clients, with damages rising to 1,3 million euros. Bank had to pay a 7,7 million euro fine."
+    ]
+  }
+}

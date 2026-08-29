@@ -1,0 +1,25 @@
+{
+  "id": 8,
+  "image": "8.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "Doctor: Here in our new hospital, all the patient information is perfectly safe and secure."
+    ],
+    [
+      "Doctor: All the records are kept digitally, and our security measures are airtight!",
+      "Maj. Thorne: I see. But when you moved here a month ago…"
+    ],
+    [
+      "Maj. Thorne: …you left all your records behind for anybody to find!",
+      "Doctor: Ah, but those were the old records from our old hospital."
+    ]
+  ],
+  "fail_fact": {
+    "id": "8",
+    "title": "All Digital? Do you know what happened to your old data?",
+    "text": [
+      "Between 2020 and 2025, there have been numerous incidents where old patient data was just forgotten. In Ireland, data was left in unlocked room anyone can access. Even worse, in Finland patient records were left in abandoned buildings - on multiple occasions. Being digital does not mean you can forget your past!"
+    ]
+  }
+}

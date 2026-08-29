@@ -1,0 +1,27 @@
+{
+  "id": 14,
+  "image": "14.jpg",
+  "credit": "by Petri Hiltunen 2026",
+  "transcript": [
+    [
+      "Maj. Thorne: You said you had some information security issues?",
+      "Boss: Yeah! I don't understand it! We have been extra careful!"
+    ],
+    [
+      "Boss: From the start, I have collected all my employee usernames and passwords into one compact file to keep everything under control.",
+      "Maj. Thorne: You did't!"
+    ],
+    [
+      "Boss: I can show you, I keep a printout here in my desk.",
+      "Boss: Funny… it WAS here…",
+      "Maj. Thorne: I think I see your problem…"
+    ]
+  ],
+  "fail_fact": {
+    "id": "14",
+    "title": "How much control is enough?",
+    "text": [
+      "Even in 2020's, some companies think best way to keep control of the employees is to control their personal information. A British company was caught having Excel sheet of all passwords. This obviously did not go down well, exposing the company to potential files in invasion of privacy. The company, in its infinite wisdom, forbade MFA. Just think the potential disaster, if criminals had gotten there first!"
+    ]
+  }
+}

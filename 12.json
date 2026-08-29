@@ -1,0 +1,26 @@
+{
+  "id": 12,
+  "image": "12.jpg",
+  "credit": "by Petri Hiltunen 2026",
+  "transcript": [
+    [
+      "Maj. Thorne: Okay, we have salvaged most of your company's assets, but you must be more careful with your actions!",
+      "Turkey: I'm sorry… This is all my fault."
+    ],
+    [
+      "Maj. Thorne: Don't trust those videos with famous people advertising easy winnings! They are made by professional con artists, trying to rob your money.",
+      "Turkey: I have learned my lesson!"
+    ],
+    [
+      "Deepfake Thorne (video): Hi, I'm Major Thorne, and I'm telling you to invest into this crypto site! You can't lose!",
+      "Turkey (thinking): Ah, it's Major Thorne! At least him I can trust!"
+    ]
+  ],
+  "fail_fact": {
+    "id": "12",
+    "title": "Is your investor guru real?",
+    "text": [
+      "Around 2023-2024, scammers started to spread deepfake investment videos, supposedly featuring British consumer finance figure Martin Lewis endorsing cryptocurrency and “AI trading” platforms.Victims reportedly lost tens or even hundreds of thousands of pounds after believing the endorsements were genuine. Lewis publicly warned that the technology was becoming realistic enough to “ruin lives,” while UK regulators and media increasingly treated deepfake investment advertising as a serious emerging fraud threat."
+    ]
+  }
+}

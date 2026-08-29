@@ -1,0 +1,27 @@
+{
+  "id": 5,
+  "image": "5.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "Maj. Thorne: I think our team should do something to these ransomware hacker groups, blackmailing private companies.",
+      "Capt. Simon: Major, in all honesty…"
+    ],
+    [
+      "Capt. Simon: Is this the best way to use our team's resources? There are so many more important safety issues in the world today."
+    ],
+    [
+      "Bartender: I'm sorry, but we are all out of beer. Our brewery was attacked by ransomware hackers.",
+      "Capt. Simon: Major, we have to act now!"
+    ]
+  ],
+  "fail_fact": {
+    "id": "5",
+    "title": "OT Networks must be protected",
+    "text": [
+      "On Sept 29th 2025, Asahi Breweries in Japan stated they have logistical issues due a ransomware attack. It proved to be a disaster, challenging product delivery for over a month.",
+      "Every enterprise should design with care its OT networks, and make all the steps necessary to ensure full business continuity in events like this.",
+      "How are your processes? When did you call your consultant for TVA or BIA?"
+    ]
+  }
+}

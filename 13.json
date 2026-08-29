@@ -1,0 +1,25 @@
+{
+  "id": 13,
+  "image": "13.jpg",
+  "credit": "by Petri Hiltunen 2026",
+  "transcript": [
+    [
+      "Mr. Warren (phone): Hi! Major Thorne? I have that file about all our future operations open here. Let me tell you, it's really impressive! Those bad guys won't see us coming!",
+      "Maj. Thorne (phone): Good, send it to me."
+    ],
+    [
+      "Maj. Thorne: But make sure it doesn't leak anywhere! Be very secure! That is top secret information!",
+      "Maj. Thorne: Hey, it's me!"
+    ],
+    [
+      "Mr. Warren (on the train): You know I always use the safest end-to-end encryption there is! Caution is my middle name!"
+    ]
+  ],
+  "fail_fact": {
+    "id": "13",
+    "title": "In public spaces you cannot be too careful.",
+    "text": [
+      "In 2016, a Goldman Sachs employee was photographed on a London commuter train viewing confidential documents, a case still cited in operational-security training. Apple has repeatedly faced leaks tied to employees handling unreleased products in bars and public spaces, while Finnish debates around Nokia and industrial espionage highlighted similar concerns years earlier. What once required espionage can now happen through an unnoticed photo, recording, or AI-assisted reconstruction of casually exposed information."
+    ]
+  }
+}

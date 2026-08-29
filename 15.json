@@ -1,0 +1,26 @@
+{
+  "id": 15,
+  "image": "15.jpg",
+  "credit": "by Petri Hiltunen 2026",
+  "transcript": [
+    [
+      "Maj. Thorne: I just dropped by to see how you use your AI in your work.",
+      "Police chief: Oh, it's great help! We use it in so many ways, like sorting out the licenses."
+    ],
+    [
+      "Police chief: This is where our AI sifts through all the surveillance camera footage from the city.",
+      "Maj. Thorne: That's nice…"
+    ],
+    [
+      "Maj. Thorne: I was just curious, because our Captain Simon jus arrested one of the officers for fabricating evidence with your AI.",
+      "Police chief: He did WHAT?"
+    ]
+  ],
+  "fail_fact": {
+    "id": "15",
+    "title": "Who Watches the Watchers?",
+    "text": [
+      "Artificial Intelligence is a new and marvellous tool. But what happens if someone in authority uses it against you? In 2026, a UK policeman was arrested from using AI to tamper and \"create evidential material\". Not just once, but on multiple occasions. Perhaps it was obvious this time, but will it be in the future as AI becomes more and more realistic? Is anyone safe?"
+    ]
+  }
+}

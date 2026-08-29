@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "image": "2.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "We are trying to pass a CSAM chat control law to stop the sexual abuse of the children.",
+      "That's a good thing, right?",
+      "WRONG!",
+      "It wouldn't stop the criminals, but it would ruin the personal privacy!"
+    ],
+    [
+      "Once the end-to-end encryption is broken, you can't have it back! Who came up with this idea?",
+      "Guys, have you noticed..."
+    ],
+    [
+      "...that CSAM is an anagram of SCAM.",
+      "Heh, heh."
+    ]
+  ],
+  "fail_fact": {
+    "id": "2",
+    "title": "Soon we could all be vulnerable!",
+    "text": [
+      "The proposed EU regulation with good intentions against Child Sexual Abuse Material (CSAM) would allow the government to scan everyone's phones and computers and force open the end-to-end encryption of messages, breaking the secrecy of correspondence.",
+      "Not only this would lead to countless false alarms, it could leave everybody wide open to hackers and other hostile operatives, but would not actually stop child abuse material because criminals have other means at their disposal."
+    ]
+  }
+}

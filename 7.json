@@ -1,0 +1,26 @@
+{
+  "id": 7,
+  "image": "7.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "Maj. Thorne: So, criminals took hold of your company because of the weak password?",
+      "Victim: But it wasn't a weak password!"
+    ],
+    [
+      "Victim: It had letters! It had numbers! It was long! They must have some weird mental powers to read it straight from my mind!"
+    ],
+    [
+      "Lt. Katz: Was it qwerty123-456789?",
+      "Victim: Good grief! She has that power too!"
+    ]
+  ],
+  "fail_fact": {
+    "id": "7",
+    "title": "Passwords are to secure things — Can you guess one?",
+    "text": [
+      "In July 2025, a US burger company had \"123456\" as a default password in their recruitment platform. It's estimated some 64 million applications were exposed to the world, for all to read.",
+      "Do you want all your CV:s to be read by every hacker?"
+    ]
+  }
+}

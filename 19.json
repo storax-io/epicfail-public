@@ -1,0 +1,28 @@
+{
+  "id": 19,
+  "image": "19.jpg",
+  "credit": "by Petri Hiltunen 2026",
+  "transcript": [
+    [
+      "Mr. Warren: To boost our sore lack of efficiency I made this chart of other organizations we could do some mutually beneficial co-operation with.",
+      "Lt. Katz: Excuse me, Mr. Warren."
+    ],
+    [
+      "Lt. Katz: Did you use an AI in formulating this plan?",
+      "Mr. Warren: Uh… maybe. What's it to you?"
+    ],
+    [
+      "Lt. Katz: Because those are all made-up organizations.",
+      "Mr. Warren: Don't try to change the subject!",
+      "Chart: F.A.I.L. — Hogwarts, HYDRA, JEDI Academy, Starfleet, S.H.I.E.L.D., Umbrella corporation, Waylan-Yutani"
+    ]
+  ],
+  "fail_fact": {
+    "id": "19",
+    "title": "AI can make your business presentation pure fiction",
+    "text": [
+      "AI is very good at making business nonsense sound convincing. In 2026, KPMG withdrew a report on “agentic AI” after researchers found that only 5 of its 45 citations correctly matched their sources. Several companies named as AI success stories, including UBS, Swiss Federal Railways and Transport for London, said the report’s claims about them were untrue or misleading. Some of the cited case studies appeared to have been fabricated or exaggerated. KPMG responded the report was being reviewed.",
+      "The lesson: never let AI-generated partners, customers or success stories walk straight into your presentation."
+    ]
+  }
+}

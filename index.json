@@ -1,0 +1,113 @@
+{
+  "project": "Epic F.A.I.L.",
+  "episodes": [
+    {
+      "id": 1,
+      "image": "1.jpg",
+      "texts": "1.json",
+      "title": "Cybersecurity is still badly enforced"
+    },
+    {
+      "id": 2,
+      "image": "2.jpg",
+      "texts": "2.json",
+      "title": "Soon we could all be vulnerable!"
+    },
+    {
+      "id": 4,
+      "image": "4.jpg",
+      "texts": "4.json",
+      "title": "Fire Destroys Government Cloud - No Backups Available!"
+    },
+    {
+      "id": 5,
+      "image": "5.jpg",
+      "texts": "5.json",
+      "title": "OT Networks must be protected"
+    },
+    {
+      "id": 6,
+      "image": "6.jpg",
+      "texts": "6.json",
+      "title": "Finnish Bank Insecurity — Honesty inherits the land?"
+    },
+    {
+      "id": 7,
+      "image": "7.jpg",
+      "texts": "7.json",
+      "title": "Passwords are to secure things — Can you guess one?"
+    },
+    {
+      "id": 8,
+      "image": "8.jpg",
+      "texts": "8.json",
+      "title": "All Digital? Do you know what happened to your old data?"
+    },
+    {
+      "id": 9,
+      "image": "9.jpg",
+      "texts": "9.json",
+      "title": "Using AI for Security — What Could Go Wrong?"
+    },
+    {
+      "id": 10,
+      "image": "10.jpg",
+      "texts": "10.json",
+      "title": "Beware of the stings — there might not be honey in the end!"
+    },
+    {
+      "id": 11,
+      "image": "11.jpg",
+      "texts": "11.json",
+      "title": "Do you know what your wear on your wrist?"
+    },
+    {
+      "id": 12,
+      "image": "12.jpg",
+      "texts": "12.json",
+      "title": "Is your investor guru real?"
+    },
+    {
+      "id": 13,
+      "image": "13.jpg",
+      "texts": "13.json",
+      "title": "In public spaces you cannot be too careful."
+    },
+    {
+      "id": 14,
+      "image": "14.jpg",
+      "texts": "14.json",
+      "title": "How much control is enough?"
+    },
+    {
+      "id": 15,
+      "image": "15.jpg",
+      "texts": "15.json",
+      "title": "Who Watches the Watchers?"
+    },
+    {
+      "id": 16,
+      "image": "16.jpg",
+      "texts": "16.json",
+      "title": "Is redacted data really redacted?"
+    },
+    {
+      "id": 17,
+      "image": "17.jpg",
+      "texts": "17.json",
+      "title": "Your vacuum knows your WiFi password"
+    },
+    {
+      "id": 18,
+      "image": "18.jpg",
+      "texts": "18.json",
+      "title": "You better protect your devices - all of them"
+    },
+    {
+      "id": 19,
+      "image": "19.jpg",
+      "texts": "19.json",
+      "title": "AI can make your business presentation pure fiction"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 4,
+  "image": "4.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "Can you keep our information safe?",
+      "Sure! Here are our dedicated cloud storage servers!"
+    ],
+    [
+      "No copies, no backups, nothing to fall into the wrong hands. The ultimate firewall!"
+    ],
+    [
+      "Wow! Rarely have I seen such a wall of fire!"
+    ]
+  ],
+  "fail_fact": {
+    "id": "4",
+    "title": "Fire Destroys Government Cloud - No Backups Available!",
+    "text": [
+      "On Oct 1 2025, Korean Government's G-Drive cloud storage system was destroyed completely, erasing files of 750,000 civil servants.",
+      "Cloud is supposed to be a safe and secure place to store your files, especially when the Government tells you so. However, if you forget to take account proper Business Continuity and Disaster Recovery, you'll end up with an empty hand."
+    ]
+  }
+}

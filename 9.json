@@ -1,0 +1,27 @@
+{
+  "id": 9,
+  "image": "9.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "Maj. Thorne: New cameras?",
+      "Mr. Warren: Not only that! I got us an AI operated security system."
+    ],
+    [
+      "Security system: A PERSON WITH A GUN DETECTED!",
+      "Mr. Warren: Excellent! Guards, get that guy and give him hell!"
+    ],
+    [
+      "Guard: Drop that gun, mister!",
+      "Mr. Warren: It's just a bag of candy!",
+      "Guard: You need more than candy to get out of this, buster!"
+    ]
+  ],
+  "fail_fact": {
+    "id": "9",
+    "title": "Using AI for Security — What Could Go Wrong?",
+    "text": [
+      "A student in Baltimore was walking along holding a snacks bag. AI – doing deep image analysis – decided it's not snacks, it's a gun. Police was called, and whole hell broke loose. Perhaps more scrutiny to AI implementations would be in order?"
+    ]
+  }
+}

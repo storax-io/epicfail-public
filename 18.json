@@ -1,0 +1,28 @@
+{
+  "id": 18,
+  "image": "18.jpg",
+  "credit": "by Petri Hiltunen 2026",
+  "transcript": [
+    [
+      "Capt. Simon (phone): Major? That flash drive I got from the whistleblower is a real deal! I downloaded it into my laptop, and it contains thousands of important files!",
+      "Maj. Thorne (phone): Good!"
+    ],
+    [
+      "Maj. Thorne (phone): Now, don't you lose that flash drive! It can't fall into wrong hands!",
+      "Capt. Simon: Major, really?"
+    ],
+    [
+      "Capt. Simon (leaving, flash drive in hand, laptop left on the cafe table): I keep a close watch on it! I'm not an idiot!",
+      "Waiter: !?"
+    ]
+  ],
+  "fail_fact": {
+    "id": "18",
+    "title": "You better protect your devices - all of them",
+    "text": [
+      "Security disasters do not always start with a sophisticated attack. In 2000, an MI6 officer left a laptop containing classified training material in a taxi after drinking at a London tapas bar. The laptop was recovered, after MI6 placed an anonymous newspaper advertisement offering a reward.",
+      "In 2023, UK rail minister's government laptop was stolen from under his chair in a London pub, containing confidential information on strike negotiations. Luckily, it was remotely wiped.",
+      "The lesson is simple: protecting one secure device is pointless if you leave the rest of your workstation behind."
+    ]
+  }
+}

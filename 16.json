@@ -1,0 +1,28 @@
+{
+  "id": 16,
+  "image": "16.jpg",
+  "credit": "by Petri Hiltunen 2026",
+  "transcript": [
+    [
+      "Clerk: Ain't technology swell? Remember how we used to black out all the sensitive information from the official documents by hand?",
+      "Colleague: Yes."
+    ],
+    [
+      "Clerk: In last three months we have been able to black out the sensitive parts by a simple computer program!",
+      "Colleague: Great!"
+    ],
+    [
+      "Caption: Meanwhile…",
+      "Lt. Katz: So… In last three months everybody have been able to read all the sensitive parts by a simple PDF-reader.",
+      "Maj. Thorne: Great!"
+    ]
+  ],
+  "fail_fact": {
+    "id": "16",
+    "title": "Is redacted data really redacted?",
+    "text": [
+      "On December 2025, the US Department of Justice (DOJ) recently published a very large amount of files related to the infamous Jeffrey Epstein scandal. Readers quickly realized that the redacted data could be read by just simple copy-pasting the redacted text to an external editor. The legal fallout is yet to be realized, court battles are just beginning.",
+      "When you want to share something that has parts that need to stay secret, make sure to use the right tools – and test the outcome before publishing."
+    ]
+  }
+}

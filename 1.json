@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "image": "1.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "Welcome, team!",
+      "This will be our new headquarters.",
+      "Uh..."
+    ],
+    [
+      "What does that acronym stand for?",
+      "\"Fighters Against the Internet Lawlessness\""
+    ],
+    [
+      "Well, that name is an epic...",
+      "I know!!! But all the cool names were taken already!"
+    ]
+  ],
+  "fail_fact": {
+    "id": "1",
+    "title": "Cybersecurity is still badly enforced",
+    "text": [
+      "Even though the press is full of news on cybersecurity-related matters, the reality is that only few cybercriminals are ever caught and prosecuted.",
+      "This is a clear indication that better coordination would be needed, in both EU and international levels. Perhaps there should be a new intergovernmental agency?"
+    ]
+  }
+}

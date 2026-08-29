@@ -1,0 +1,26 @@
+{
+  "id": 11,
+  "image": "11.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "Maj. Thorne: Hello, Major Hunter. Maybe our team could help you with the Internet security?",
+      "Maj. Hunter: Major Thorne?"
+    ],
+    [
+      "Maj. Hunter: Look, my ultra secret special section doesn't need any help from outsiders! We are the best in the field!",
+      "Maj. Thorne: As you wish…"
+    ],
+    [
+      "Maj. Hunter: Wait a minute! How did you find me?",
+      "Maj. Thorne: Your running app is open for anybody to see."
+    ]
+  ],
+  "fail_fact": {
+    "id": "11",
+    "title": "Do you know what your wear on your wrist?",
+    "text": [
+      "In March 2026, a young man was going for his morning jog, and he took his trusty smartwatch with him. The watch faithfully tracked his position and shared it in the cloud to his peers and contacts. So what is the issue?\\\\ The young man was an officer of the French Navy, and he had his jog on the deck of a carrier. Now the whole world knew where the carrier was located."
+    ]
+  }
+}

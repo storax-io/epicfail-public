@@ -1,0 +1,26 @@
+{
+  "id": 10,
+  "image": "10.jpg",
+  "credit": "by Petri Hiltunen 2025",
+  "transcript": [
+    [
+      "Lt. Katz: All done! Your firewall is updated to the maximum security!",
+      "Capt. Simon: I made sure that nobody can break into your data storage servers."
+    ],
+    [
+      "Maj. Thorne: With the help of my team, we have made your data security airtight!",
+      "Boss Hog: Thank you, Major Thorne! It's good to know that our bisnes secrets are secure!"
+    ],
+    [
+      "Honey von Trapp (chat): Ooh, your company sounds interesting! Tell me more, you handsome hunk!",
+      "Boss Hog (chat): Shure, Honey…."
+    ]
+  ],
+  "fail_fact": {
+    "id": "10",
+    "title": "Beware of the stings — there might not be honey in the end!",
+    "text": [
+      "In 2017, an internet personality called\\\\ \"Mia Ash from London\" lured dozens of professional men from tech companies, government and other important positions to a trap. In fact, \"Mia\" was a fake profile created by the Iranian intelligence. Via \"Mia\", they got access to an unprecedented number of classified documents."
+    ]
+  }
+}
