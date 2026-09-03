@@ -6,6 +6,7 @@
       "image": "1.jpg",
       "image_web": "1_web.jpg",
       "texts": "1.json",
+      "published": "2025-12-01",
       "title": "Cybersecurity is still badly enforced"
     },
     {
@@ -13,6 +14,7 @@
       "image": "2.jpg",
       "image_web": "2_web.jpg",
       "texts": "2.json",
+      "published": "2025-12-15",
       "title": "Soon we could all be vulnerable!"
     },
     {
@@ -20,6 +22,7 @@
       "image": "4.jpg",
       "image_web": "4_web.jpg",
       "texts": "4.json",
+      "published": "2026-01-15",
       "title": "Fire Destroys Government Cloud - No Backups Available!"
     },
     {
@@ -27,6 +30,7 @@
       "image": "5.jpg",
       "image_web": "5_web.jpg",
       "texts": "5.json",
+      "published": "2026-02-01",
       "title": "OT Networks must be protected"
     },
     {
@@ -34,6 +38,7 @@
       "image": "6.jpg",
       "image_web": "6_web.jpg",
       "texts": "6.json",
+      "published": "2026-02-15",
       "title": "Finnish Bank Insecurity — Honesty inherits the land?"
     },
     {
@@ -41,6 +46,7 @@
       "image": "7.jpg",
       "image_web": "7_web.jpg",
       "texts": "7.json",
+      "published": "2026-03-01",
       "title": "Passwords are to secure things — Can you guess one?"
     },
     {
@@ -48,6 +54,7 @@
       "image": "8.jpg",
       "image_web": "8_web.jpg",
       "texts": "8.json",
+      "published": "2026-03-15",
       "title": "All Digital? Do you know what happened to your old data?"
     },
     {
@@ -55,6 +62,7 @@
       "image": "9.jpg",
       "image_web": "9_web.jpg",
       "texts": "9.json",
+      "published": "2026-04-01",
       "title": "Using AI for Security — What Could Go Wrong?"
     },
     {
@@ -62,6 +70,7 @@
       "image": "10.jpg",
       "image_web": "10_web.jpg",
       "texts": "10.json",
+      "published": "2026-04-15",
       "title": "Beware of the stings — there might not be honey in the end!"
     },
     {
@@ -69,6 +78,7 @@
       "image": "11.jpg",
       "image_web": "11_web.jpg",
       "texts": "11.json",
+      "published": "2026-05-01",
       "title": "Do you know what your wear on your wrist?"
     },
     {
@@ -76,6 +86,7 @@
       "image": "12.jpg",
       "image_web": "12_web.jpg",
       "texts": "12.json",
+      "published": "2026-05-15",
       "title": "Is your investor guru real?"
     },
     {
@@ -83,6 +94,7 @@
       "image": "13.jpg",
       "image_web": "13_web.jpg",
       "texts": "13.json",
+      "published": "2026-06-01",
       "title": "In public spaces you cannot be too careful."
     },
     {
@@ -90,6 +102,7 @@
       "image": "14.jpg",
       "image_web": "14_web.jpg",
       "texts": "14.json",
+      "published": "2026-06-15",
       "title": "How much control is enough?"
     },
     {
@@ -97,6 +110,7 @@
       "image": "15.jpg",
       "image_web": "15_web.jpg",
       "texts": "15.json",
+      "published": "2026-07-01",
       "title": "Who Watches the Watchers?"
     },
     {
@@ -104,6 +118,7 @@
       "image": "16.jpg",
       "image_web": "16_web.jpg",
       "texts": "16.json",
+      "published": "2026-07-15",
       "title": "Is redacted data really redacted?"
     },
     {
@@ -111,6 +126,7 @@
       "image": "17.jpg",
       "image_web": "17_web.jpg",
       "texts": "17.json",
+      "published": "2026-08-01",
       "title": "Your vacuum knows your WiFi password"
     },
     {
@@ -118,6 +134,7 @@
       "image": "18.jpg",
       "image_web": "18_web.jpg",
       "texts": "18.json",
+      "published": "2026-08-15",
       "title": "You better protect your devices - all of them"
     },
     {
@@ -125,6 +142,7 @@
       "image": "19.jpg",
       "image_web": "19_web.jpg",
       "texts": "19.json",
+      "published": "2026-09-01",
       "title": "AI can make your business presentation pure fiction"
     }
   ]
